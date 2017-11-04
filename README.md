@@ -15,5 +15,4 @@ The repository provides the implementation in JAVA for the following algorithm:
 3. NaiveBayes,
 4. Kmeans.
 
-Accuracy achieved for the models corresponding to different paramenters could be checked in Algorithm Analysis.xlsx
-
+Accuracy achieved for the models corresponding to different paramenters could be checked in Algorithm Analysis.xlsx.
